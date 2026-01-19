@@ -1,0 +1,36 @@
+/* heading  */
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Solway:wght@300;400;500;700&display=swap");
+
+/* paragraph  */
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Solway:wght@300;400&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+
+/* sub-heading  */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Solway:wght@300;400&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+*,
+.row {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Solway", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color: rgb(243, 240, 240);
+}
+
+h3 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 600;
+}
